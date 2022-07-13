@@ -1,0 +1,2 @@
+# SRS-Document-Generator
+ Software requirements specifications (SRS) are hard to compare due to the uniqueness of the projects they were created in. It fits the needs of most of the developers, freelancers or otherwise, as the format of the generated document is generic. We have tried to include every possible aspect that would help a developer to get the SRS document generated according to their requirements from scratch.
